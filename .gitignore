@@ -1,0 +1,73 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# Linux
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+*.sw?
+*.log
+
+# Build directories
+dist/
+build/
+out/
+
+# Logs
+*.log
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Next.js
+.next/
+out/
+
+# React
+*.tsbuildinfo
+
+# Typescript
+*.tsbuildinfo
+
+# Cloud
+*.env
+*.env.*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage
+coverage/
+
+# System Files
+*.lock
+*.pid
+*.seed
+
+# Test files
+*.test.js
+*.spec.js
